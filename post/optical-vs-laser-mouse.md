@@ -11,7 +11,7 @@
     <li><strong>No Glare Issue:</strong> The light emitted is less harsh, reducing glare and reflection, which can be advantageous when working in bright environments.</li>
 </ul>
 <h3>What is a Laser Mouse?</h3>
-<p><a href="https://bit.ly/4kmxLsW">Check Pricing in Amazon</a></p>
+<p><a href="https://easyfree.com.au/check-amazon-from-git">Check Pricing in Amazon</a></p>
 <p>A laser mouse utilizes a laser beam instead of an LED to track movement. This allows for greater precision and performance, especially on glossy or reflective surfaces. The laser technology can detect smaller or more intricate movements, which can enhance advanced tasks such as graphic design or gaming.</p>
 <h4>Advantages of Laser Mice:</h4>
 <ul>
@@ -23,7 +23,7 @@
 <h3>Comparison of Performance</h3>
 <p>When comparing performance, there are several critical factors to consider. Each type of mouse excels in different areas, and choosing the right one depends on how you plan to use it.</p>
 <h4>Mousing Surface</h4>
-<p><a href="https://bit.ly/4kmxLsW">Check Pricing in Amazon</a></p>
+<p><a href="https://easyfree.com.au/check-amazon-from-git">Check Pricing in Amazon</a></p>
 <p>Optical mice perform well on textured surfaces, which provide the necessary feedback for the sensor. In contrast, laser mice can succeed on smooth or reflective surfaces where optical mice might struggle or even become erratic.</p>
 <h4>Precision and Accuracy</h4>
 <p>If you're involved in activities requiring high precision, such as graphic design or gaming, a laser mouse may be preferred due to its higher DPI settings. Optical mice, with lower sensitivity, may suffice for everyday tasks but may fall short in scenarios requiring fine control.</p>
