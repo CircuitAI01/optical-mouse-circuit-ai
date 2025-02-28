@@ -1,5 +1,5 @@
 <h1>Mouse Optico</h2>
-<p><img src="images/mouse-optico-1740735198.png"></p>
+<p><img src="/images/mouse-optico-1740735198.png"></p>
 <h2>The Advantages of Using a Mouse Optico for Everyday Computing</h2><p>When it comes to enhancing your everyday computing experience, one often-overlooked device is the mouse optico. With its advanced technology and user-friendly design, this optical mouse offers several advantages that can improve efficiency, comfort, and precision in your daily tasks. Let’s explore the benefits that make the mouse optico an essential tool for anyone who spends significant time on a computer.</p>
 <h3>Precision and Accuracy</h3>
 <p>The first significant advantage of using a mouse optico is its precision. Optical mice utilize a light-emitting diode (LED) and an image sensor to track movement across various surfaces. This system provides a much more accurate response compared to traditional mechanical mice. Whether you're gaming, editing graphics, or simply browsing the web, you can enjoy smoother and more reliable control.</p>
