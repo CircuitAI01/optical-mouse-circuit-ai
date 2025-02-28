@@ -1,4 +1,4 @@
-<h1>Best Optical Mouse Reviews</><p><a href="asus-rog-spatha-x-wireless-optical-gaming-mouse.md">asus rog spatha x wireless optical gaming mouse</a></p>
+<h1>Best Optical Mouse Reviews</h1><p><a href="asus-rog-spatha-x-wireless-optical-gaming-mouse.md">asus rog spatha x wireless optical gaming mouse</a></p>
 <p><a href="are-optical-mouse-switches-heavier.md">are optical mouse switches heavier</a></p>
 <p><a href="are-optical-switches-better-than-mechanical-mouse.md">are optical switches better than mechanical mouse</a></p>
 <p><a href="optical-vs-laser-mouse.md">optical vs laser mouse</a></p>
