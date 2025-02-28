@@ -7,3 +7,4 @@
 <p><a href="post/logitech---g402-hyperion-fury-optical-gaming-mouse---black.md">Logitech - G402 Hyperion Fury Optical Gaming Mouse - Black</a></p>
 <p><a href="post/logitech-g300s-optical-gaming-mouse.md">Logitech G300s Optical Gaming Mouse</a></p>
 <p><a href="post/mouse-optico.md">Mouse Optico</a></p>
+<p><a href="post/anker-2.4g-wireless-vertical-ergonomic-optical-mouse.md">Anker 2.4g Wireless Vertical Ergonomic Optical Mouse</a></p>
