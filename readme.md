@@ -10,3 +10,4 @@
 <p><a href="post/anker-2.4g-wireless-vertical-ergonomic-optical-mouse.md">Anker 2.4g Wireless Vertical Ergonomic Optical Mouse</a></p>
 <p><a href="post/cyberpowerpc-gaming-optical-mouse-elite-m1-131.md">Cyberpowerpc Gaming Optical Mouse Elite M1-131</a></p>
 <p><a href="post/how-does-an-optical-mouse-work.md">How Does An Optical Mouse Work</a></p>
+<p><a href="post/hp-x3000-wireless-optical-mouse.md">Hp X3000 Wireless Optical Mouse</a></p>
