@@ -12,3 +12,4 @@
 <p><a href="post/how-does-an-optical-mouse-work.md">How Does An Optical Mouse Work</a></p>
 <p><a href="post/hp-x3000-wireless-optical-mouse.md">Hp X3000 Wireless Optical Mouse</a></p>
 <p><a href="post/logitech-m325-wireless-optical-mouse.md">Logitech M325 Wireless Optical Mouse</a></p>
+<p><a href="post/microsoft-wheel-mouse-optical.md">Microsoft Wheel Mouse Optical</a></p>
