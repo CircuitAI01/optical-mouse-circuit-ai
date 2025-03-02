@@ -15,3 +15,4 @@
 <p><a href="post/microsoft-wheel-mouse-optical.md">Microsoft Wheel Mouse Optical</a></p>
 <p><a href="post/mouse-pad-for-optical-mouse.md">Mouse Pad For Optical Mouse</a></p>
 <p><a href="post/mouse-with-optical-switches.md">Mouse With Optical Switches</a></p>
+<p><a href="post/optical-mouse-sensor.md">Optical Mouse Sensor</a></p>
