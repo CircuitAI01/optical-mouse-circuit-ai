@@ -19,3 +19,4 @@
 <p><a href="post/logitech-g502-x-plus-lightspeed-wireless-optical-mouse.md">Logitech G502 X Plus Lightspeed Wireless Optical Mouse</a></p>
 <p><a href="post/logitech-t630-ultrathin-optical-touch-mouse.md">Logitech T630 Ultrathin Optical Touch Mouse</a></p>
 <p><a href="post/logitech-optical-marble-mouse-trackball.md">Logitech Optical Marble Mouse Trackball</a></p>
+<p><a href="post/wired-optical-mouse.md">Wired Optical Mouse</a></p>
