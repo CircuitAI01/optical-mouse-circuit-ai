@@ -25,3 +25,4 @@
 <p><a href="post/is-the-red-laser-beam-from-optical-mouse-harmful-to-the-eye.md">Is The Red Laser Beam From Optical Mouse Harmful To The Eye</a></p>
 <p><a href="post/optical-wireless-mouse.md">Optical Wireless Mouse</a></p>
 <p><a href="post/aqua-optical-mouse.md">Aqua Optical Mouse</a></p>
+<p><a href="post/corded-optical-mouse.md">Corded Optical Mouse</a></p>
