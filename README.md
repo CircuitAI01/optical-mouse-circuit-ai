@@ -21,4 +21,5 @@
 <p><a href="post/logitech-optical-marble-mouse-trackball.md">Logitech Optical Marble Mouse Trackball</a></p>
 <p><a href="post/wired-optical-mouse.md">Wired Optical Mouse</a></p>
 <p><a href="post/logitech-b100-optical-mouse-black.md">Logitech B100 Optical Mouse Black</a></p>
-<p><a href="post/how-to-set-up-a-laser-optical-computer-mouse?.md">How To Set Up A Laser Optical Computer Mouse?</a></p>
+<p><a href="post/how-to-set-up-a-laser-optical-computer-mouse.md">How To Set Up A Laser Optical Computer Mouse</a></p>
+<p><a href="post/is-the-red-laser-beam-from-optical-mouse-harmful-to-the-eye.md">Is The Red Laser Beam From Optical Mouse Harmful To The Eye</a></p>
