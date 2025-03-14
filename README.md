@@ -20,5 +20,5 @@
 <p><a href="post/logitech-t630-ultrathin-optical-touch-mouse.md">Logitech T630 Ultrathin Optical Touch Mouse</a></p>
 <p><a href="post/logitech-optical-marble-mouse-trackball.md">Logitech Optical Marble Mouse Trackball</a></p>
 <p><a href="post/wired-optical-mouse.md">Wired Optical Mouse</a></p>
-<p><a href="post/how-does-a-mouse-without-the-red-light/ball-work?.md">How Does A Mouse Without The Red Light/ball Work?</a></p>
 <p><a href="post/logitech-b100-optical-mouse-black.md">Logitech B100 Optical Mouse Black</a></p>
+<p><a href="post/how-to-set-up-a-laser-optical-computer-mouse?.md">How To Set Up A Laser Optical Computer Mouse?</a></p>
