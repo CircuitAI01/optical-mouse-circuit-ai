@@ -27,3 +27,4 @@
 <p><a href="post/aqua-optical-mouse.md">Aqua Optical Mouse</a></p>
 <p><a href="post/corded-optical-mouse.md">Corded Optical Mouse</a></p>
 <p><a href="post/finalmouse-air58-ninja-wired-optical-mouse.md">Finalmouse Air58 Ninja Wired Optical Mouse</a></p>
+<p><a href="post/ibuypower-gaming-optical-mouse.md">Ibuypower Gaming Optical Mouse</a></p>
