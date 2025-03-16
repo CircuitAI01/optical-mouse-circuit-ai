@@ -30,3 +30,4 @@
 <p><a href="post/ibuypower-gaming-optical-mouse.md">Ibuypower Gaming Optical Mouse</a></p>
 <p><a href="post/tecknet-cordless-optical-mouse.md">Tecknet Cordless Optical Mouse</a></p>
 <p><a href="post/what-computer-mice-were-used-before-the-optical-mouse.md">What Computer Mice Were Used Before The Optical Mouse</a></p>
+<p><a href="post/what-is-an-advantage-to-using-an-optical-mouse.md">What Is An Advantage To Using An Optical Mouse</a></p>
