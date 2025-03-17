@@ -33,3 +33,4 @@
 <p><a href="post/what-is-an-advantage-to-using-an-optical-mouse.md">What Is An Advantage To Using An Optical Mouse</a></p>
 <p><a href="post/how-does-a-computer-mouse-work-inside-an-optical-mouse.md">How Does A Computer Mouse Work Inside An Optical Mouse</a></p>
 <p><a href="post/why-do-optical-mouse-have-light.md">Why Do Optical Mouse Have Light</a></p>
+<p><a href="post/is-it-possible-to-replace-a-laser-mouse-sensor.md">Is It Possible To Replace A Laser Mouse Sensor</a></p>
