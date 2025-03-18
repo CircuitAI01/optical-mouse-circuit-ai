@@ -38,3 +38,4 @@
 <p><a href="post/is-it-harmful-to-keep-a-laser-mouse-on-your-lab-while-using-it.md">Is It Harmful To Keep A Laser Mouse On Your Lab While Using It</a></p>
 <p><a href="post/is-an-optical-mouse-better-for-an-imac.md">Is An Optical Mouse Better For An Imac</a></p>
 <p><a href="post/what-does-the-red-/-blue-light-in-mouse-help-in.md">What Does The Red / Blue Light In Mouse Help In</a></p>
+<p><a href="post/why-is-the-laser-on-my-mouse-not-working.md">Why Is The Laser On My Mouse Not Working</a></p>
