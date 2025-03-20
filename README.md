@@ -42,3 +42,4 @@
 <p><a href="post/is-it-possible-to-fix-a-laser-mouse.md">Is It Possible To Fix A Laser Mouse</a></p>
 <p><a href="post/can-the-light-from-a-computer-mouse-be-carcinogenic.md">Can The Light From A Computer Mouse Be Carcinogenic</a></p>
 <p><a href="post/how-to-build-my-own-optical-mouse.md">How To Build My Own Optical Mouse</a></p>
+<p><a href="post/will-a-laser-mouse-not-work-well-with-a-cloth-mousepad.md">Will A Laser Mouse Not Work Well With A Cloth Mousepad</a></p>
