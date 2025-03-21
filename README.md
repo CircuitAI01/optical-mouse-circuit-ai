@@ -45,3 +45,4 @@
 <p><a href="post/will-a-laser-mouse-not-work-well-with-a-cloth-mousepad.md">Will A Laser Mouse Not Work Well With A Cloth Mousepad</a></p>
 <p><a href="post/why-is-there-a-light-under-the-mouse.md">Why Is There A Light Under The Mouse</a></p>
 <p><a href="post/what-are-the-balls-in-old-computer-mouses-called.md">What Are The Balls In Old Computer Mouses Called</a></p>
+<p><a href="post/my-mouse-lights-up-but-doesn't-work-and-doesn't-move.-why.md">My Mouse Lights Up But Doesn't Work And Doesn't Move. Why</a></p>
