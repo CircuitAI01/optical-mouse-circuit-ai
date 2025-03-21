@@ -46,3 +46,4 @@
 <p><a href="post/why-is-there-a-light-under-the-mouse.md">Why Is There A Light Under The Mouse</a></p>
 <p><a href="post/what-are-the-balls-in-old-computer-mouses-called.md">What Are The Balls In Old Computer Mouses Called</a></p>
 <p><a href="post/my-mouse-lights-up-but-doesn't-work-and-doesn't-move.-why.md">My Mouse Lights Up But Doesn't Work And Doesn't Move. Why</a></p>
+<p><a href="post/is-it-bad-to-use-a-mouse-without-a-pad.md">Is It Bad To Use A Mouse Without A Pad</a></p>
