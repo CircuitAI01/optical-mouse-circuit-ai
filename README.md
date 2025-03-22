@@ -49,3 +49,4 @@
 <p><a href="post/is-it-bad-to-use-a-mouse-without-a-pad.md">Is It Bad To Use A Mouse Without A Pad</a></p>
 <p><a href="post/how-to-clean-the-gunk-off-of-an-optical-computer-mouse.md">How To Clean The Gunk Off Of An Optical Computer Mouse</a></p>
 <p><a href="post/how-does-a-computer-mouse-detect-movement.md">How Does A Computer Mouse Detect Movement</a></p>
+<p><a href="post/what-are-the-least-two-types-of-computer-mouse.md">What Are The Least Two Types Of Computer Mouse</a></p>
