@@ -51,3 +51,4 @@
 <p><a href="post/how-does-a-computer-mouse-detect-movement.md">How Does A Computer Mouse Detect Movement</a></p>
 <p><a href="post/what-are-the-least-two-types-of-computer-mouse.md">What Are The Least Two Types Of Computer Mouse</a></p>
 <p><a href="post/how-does-a-mouse-work.md">How Does A Mouse Work</a></p>
+<p><a href="post/are-there-any-gaming-mice-with-customizable-rgb-lighting.md">Are There Any Gaming Mice With Customizable Rgb Lighting</a></p>
