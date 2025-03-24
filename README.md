@@ -56,3 +56,4 @@
 <p><a href="post/why-does-my-mouse-not-work-properly-on-smooth-surfaces.md">Why Does My Mouse Not Work Properly On Smooth Surfaces</a></p>
 <p><a href="post/how-much-power-does-a-mouse-use.md">How Much Power Does A Mouse Use</a></p>
 <p><a href="post/which-sensor-type-is-best-for-gaming-mouses.md">Which Sensor Type Is Best For Gaming Mouses</a></p>
+<p><a href="post/how-did-early-computers-handle-mice.md">How Did Early Computers Handle Mice</a></p>
