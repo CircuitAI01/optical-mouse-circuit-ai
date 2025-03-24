@@ -54,3 +54,4 @@
 <p><a href="post/are-there-any-gaming-mice-with-customizable-rgb-lighting.md">Are There Any Gaming Mice With Customizable Rgb Lighting</a></p>
 <p><a href="post/what-if-red-light-is-not-working,-is-the-mouse-no-good.md">What If Red Light Is Not Working, Is The Mouse No Good</a></p>
 <p><a href="post/why-does-my-mouse-not-work-properly-on-smooth-surfaces.md">Why Does My Mouse Not Work Properly On Smooth Surfaces</a></p>
+<p><a href="post/how-much-power-does-a-mouse-use.md">How Much Power Does A Mouse Use</a></p>
