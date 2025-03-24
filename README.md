@@ -57,3 +57,4 @@
 <p><a href="post/how-much-power-does-a-mouse-use.md">How Much Power Does A Mouse Use</a></p>
 <p><a href="post/which-sensor-type-is-best-for-gaming-mouses.md">Which Sensor Type Is Best For Gaming Mouses</a></p>
 <p><a href="post/how-did-early-computers-handle-mice.md">How Did Early Computers Handle Mice</a></p>
+<p><a href="post/what-is-the-best-budget-gaming-mouse-under-$10.md">What Is The Best Budget Gaming Mouse Under $10</a></p>
