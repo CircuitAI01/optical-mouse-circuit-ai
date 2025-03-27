@@ -66,3 +66,4 @@
 <p><a href="post/how-to-know-if-your-mouse-is-good-or-bad-for-gaming.md">How To Know If Your Mouse Is Good Or Bad For Gaming</a></p>
 <p><a href="post/what-is-the-disadvantage-of-an-operational-mouse.md">What Is The Disadvantage Of An Operational Mouse</a></p>
 <p><a href="post/what-mouse-do-you-use-to-design.md">What Mouse Do You Use To Design</a></p>
+<p><a href="post/what-are-some-substitutes-you-can-use-as-a-mousepad.md">What Are Some Substitutes You Can Use As A Mousepad</a></p>
