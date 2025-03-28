@@ -68,3 +68,4 @@
 <p><a href="post/what-mouse-do-you-use-to-design.md">What Mouse Do You Use To Design</a></p>
 <p><a href="post/what-are-some-substitutes-you-can-use-as-a-mousepad.md">What Are Some Substitutes You Can Use As A Mousepad</a></p>
 <p><a href="post/why-do-wireless-mice-consume-a-lot-of-batteries.md">Why Do Wireless Mice Consume A Lot Of Batteries</a></p>
+<p><a href="post/how-to-use-a-wireless-trackball-mouse.md">How To Use A Wireless Trackball Mouse</a></p>
